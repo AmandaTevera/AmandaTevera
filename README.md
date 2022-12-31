@@ -1,7 +1,7 @@
 # Hi! I’m Amanda 👋🏽︎
 
 I’m a newbie in tech who is currently learning JavaScript, Python, SQL, HTML and CSS. 
-I managed to get started thanks to <a href="https://codefirstgirls.com/" title="Code First Girls Website" target="_blank"> Code First Girls </a>. 
+I managed to get started thanks to <a href="https://codefirstgirls.com/" title="Code First Girls Website" target="_blank"> Code First Girls. </a> 
 The introductory courses I took have set me on a good path and I'm now continually learning 💻︎.
 
 As a Civil Engineer, I enjoyed being on site and supervising construction. 
